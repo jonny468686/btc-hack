@@ -1,5 +1,5 @@
-base58
-ecdsa
-requests
-multiprocessing
-PySimpleGUI
+pip install base58
+pip install ecdsa
+pip install requests
+pip install multiprocessing
+pip install PySimpleGUI
